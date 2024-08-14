@@ -1,0 +1,30 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+ul{
+    display: flex;  
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    gap: 10px;
+    background-color: #77003c;
+    height: 100px;
+}
+
+li{
+    color:white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+
+}
+
+{
+
+    
+}
